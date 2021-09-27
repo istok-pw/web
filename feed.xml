@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>istok.pw</title>
-    <link href="https://istok.pw/feed.xml" rel="self" />
-    <link href="https://istok.pw" />
+    <link href="https://istok-pw.github.io/web/feed.xml" rel="self" />
+    <link href="https://istok-pw.github.io/web" />
     <updated>2021-09-17T22:47:18+03:00</updated>
     <author>
         <name>Evgeny Nikiforov</name>
     </author>
-    <id>https://istok.pw</id>
+    <id>https://istok-pw.github.io/web</id>
 
     <entry>
         <title>ООО «ИСТОК»</title>
         <author>
             <name>Evgeny Nikiforov</name>
         </author>
-        <link href="https://istok.pw/ooo-lesslessistokgreatergreater.html"/>
-        <id>https://istok.pw/ooo-lesslessistokgreatergreater.html</id>
+        <link href="https://istok-pw.github.io/web/ooo-lesslessistokgreatergreater.html"/>
+        <id>https://istok-pw.github.io/web/ooo-lesslessistokgreatergreater.html</id>
 
         <updated>2021-09-17T22:47:18+03:00</updated>
             <summary>
