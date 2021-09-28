@@ -3,10 +3,36 @@
     <title>istok.pw</title>
     <link href="https://istok-pw.github.io/web/feed.xml" rel="self" />
     <link href="https://istok-pw.github.io/web" />
-    <updated>1970-01-01T03:00:00+03:00</updated>
+    <updated>2021-09-28T15:38:27+03:00</updated>
     <author>
         <name>istok.pw</name>
     </author>
     <id>https://istok-pw.github.io/web</id>
 
+    <entry>
+        <title>Элни 2-14</title>
+        <author>
+            <name>istok.pw</name>
+        </author>
+        <link href="https://istok-pw.github.io/web/elni-2-14.html"/>
+        <id>https://istok-pw.github.io/web/elni-2-14.html</id>
+            <category term="product"/>
+
+        <updated>2021-09-28T15:38:27+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Элни 2-12</title>
+        <author>
+            <name>istok.pw</name>
+        </author>
+        <link href="https://istok-pw.github.io/web/elni-2-12.html"/>
+        <id>https://istok-pw.github.io/web/elni-2-12.html</id>
+            <category term="product"/>
+
+        <updated>2021-09-28T15:37:58+03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
