@@ -3,7 +3,7 @@
     <title>istok.pw</title>
     <link href="https://istok-pw.github.io/web/feed.xml" rel="self" />
     <link href="https://istok-pw.github.io/web" />
-    <updated>2021-11-05T08:20:31+03:00</updated>
+    <updated>2021-11-05T08:29:29+03:00</updated>
     <author>
         <name>istok.pw</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://istok-pw.github.io/web/unificirovannye-sistemy-kontrolya-i-upravleniya-dlya-litiy-ionnyh-akkumulyatornyh-batarey-i-moduley-sku-liab.html"/>
         <id>https://istok-pw.github.io/web/unificirovannye-sistemy-kontrolya-i-upravleniya-dlya-litiy-ionnyh-akkumulyatornyh-batarey-i-moduley-sku-liab.html</id>
 
-        <updated>2021-11-05T08:20:31+03:00</updated>
+        <updated>2021-11-05T08:29:29+03:00</updated>
             <summary>
                 <![CDATA[
                     Современные ЛИ аккумуляторы обладают максимально высокими удельными энергетическими характеристиками среди прочих химических источников тока, что делает их применение наиболее привлекательным в автономной и стационарной энергетике&hellip;
@@ -29,6 +29,34 @@
 <p>Однако, практическое достижение декларируемых высоких энергетических показателей литий-ионных аккумуляторов, составленных в батареи последовательно-параллельно из отдельно соединенных элементов, предполагает наличие  систем контроля и управления (СКУ), входящих в состав батареи, влияющих на эффективность всей ЛИАБ. </p>
 <p>Необходимость применения СКУ ЛИАБ обусловлена требованиями безопасной и эффективной эксплуатации ЛИАБ в составе систем, комплексов и агрегатов, в которых планируется их применение.</p>
 <p>Разработан ряд унифицированных СКУ для ЛИАБ емкостью до 1000АхЧ, с возможностью контроля основных переменных ЛИАБ и обеспечивающих оптимальные режимы и токи заряда ЛИАБ, необходимые рабочие диапазоны напряжений, в требуемом температурном диапазоне, а также выравнивание разбаланса напряжений отдельных элементов батареи.</p>
+<ol>
+<li>раз</li>
+<li>два</li>
+<li>три</li>
+</ol>
+<ul>
+<li>раз два</li>
+<li>раз</li>
+<li>аааа</li>
+</ul>
+<figure class="post__image" ><img loading="lazy" src="https://istok-pw.github.io/web/media/posts/4/ELNI-foto.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://istok-pw.github.io/web/media/posts/4/responsive/ELNI-foto-xs.png 300w ,https://istok-pw.github.io/web/media/posts/4/responsive/ELNI-foto-sm.png 480w ,https://istok-pw.github.io/web/media/posts/4/responsive/ELNI-foto-md.png 749w ,https://istok-pw.github.io/web/media/posts/4/responsive/ELNI-foto-xl.png 1200w"  alt="ЭЛНИ фото" width="682" height="667">
+<figcaption >Caption</figcaption>
+</figure>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;">апр</td>
+<td style="width: 33.3333%;">апо</td>
+<td style="width: 33.3333%;">апо</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">акепо</td>
+<td style="width: 33.3333%;">апо</td>
+<td style="width: 33.3333%;">апо</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
             ]]>
         </content>
     </entry>
